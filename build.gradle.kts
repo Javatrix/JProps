@@ -4,6 +4,7 @@ plugins {
 
 group = "org.example"
 version = "1.0"
+description = "Simple Java library to deal with .properties files."
 
 repositories {
     mavenCentral()
