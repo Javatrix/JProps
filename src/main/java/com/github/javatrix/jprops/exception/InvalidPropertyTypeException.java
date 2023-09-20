@@ -2,7 +2,7 @@ package com.github.javatrix.jprops.exception;
 
 /**
  * @author Javatrix
- * Exception thrown when property value the user is trying to get does not match the one stored in .properites file.
+ * Exception thrown when property value the user is trying to get does not match the one stored in .properties file.
  */
 public class InvalidPropertyTypeException extends RuntimeException {
 
